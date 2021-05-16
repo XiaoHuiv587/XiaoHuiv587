@@ -1,7 +1,7 @@
 ### Hi there 👋
-<一种 href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"alt="996.icu" /></一种>
-
-
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+支持正常工作，拒绝996
+操你妈死妈资本家，滚
 <!--
 **XiaoHuiv587/XiaoHuiv587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
